@@ -1,0 +1,2 @@
+c:\users\saulo\documents\visual studio 2015\Projects\MeuPrimeiroGitEmCsharp\MeuPrimeiroGitEmCsharp\bin\Debug\MeuPrimeiroGitEmCsharp.exe.config
+C:\Users\Saulo\Documents\git\MeusProjetosCSharp\MeuPrimeiroGitEmCsharp\MeuPrimeiroGitEmCsharp\bin\Debug\MeuPrimeiroGitEmCsharp.exe.config
